@@ -1,0 +1,346 @@
+html{
+background-color: black;
+}
+input:radio{
+background-color: black;
+}
+#Tudo{
+width: 1561px;
+height: 1150px;
+background-color: green;
+border: 2px solid black;
+box-shadow: 5px 5px 5px 5px black;
+
+}
+#Cabecalho{
+width: 1559px;
+height: 200px;
+float: left;
+background-color: green;
+color: aliceblue;
+text-align: center;
+font-size: 50px;
+border-radius: 5px 5px 5px 5px;
+border: 1px solid black;
+}
+#logo1{
+float:right;
+margin-top: -215px;
+}
+#direita{
+width: 200px;
+height: 900px;
+float: left;
+border-radius: 5px 5px 5px 5px;
+border: 1px solid black;
+background-color: green;
+}
+#Corpo{
+width: 1352px;
+height: 900px;
+float: left;
+background-color: aliceblue;
+border-radius: 10px 10px 10px 10px;
+border: 1px solid black;
+padding-left: 1px;
+padding-right: 1px;
+text-align: center;
+
+}
+#rodape{
+width: 1556px;
+height: 41px;
+float: left;
+background-color: green;
+color: white;
+font-size: 30px;
+text-align: center;
+border-radius: 5px 5px 5px 5px;
+border: 1px solid black;
+}
+a{
+background-color: black;
+color: white;
+font-size: 30px;
+box-shadow: 5px 5px 5px 5px black;
+padding-left: 50px;
+padding-right: 80px;
+border-radius: 15px;
+border: 1px solid white;
+}
+a:hover{
+background-color: green;
+color: aliceblue;
+padding-left: 50px;
+padding-right: 80px;
+font-size: 30px;
+box-shadow: 5px 5px 5px 5px black;
+border-radius: 10px 10px 10px 10px;
+}
+a:link { text-decoration: none; 
+}
+#logo{
+width: 1280px;
+box-shadow: 5px 5px 5px 5px black;
+border-radius: 10px;
+border: 1px solid white;
+}
+/*Estilo para a DIV Corpo e a parte principal da Home coma a apresentação dos personagens da Cipa*/
+#Box1{
+width: 200px;
+height: 330px;
+border: 1px solid black;
+float: left;
+padding: 10px;
+margin-left: 10px;
+margin-right: 10px;
+margin-top: 10px;
+color: white;
+background-color: black;
+border-radius: 10px;
+font-size: 18px;
+}
+#Box2{
+width: 200px;
+height: 330px;
+border: 1px solid black;
+float: left;
+padding: 10px;
+margin-left: 10px;
+margin-right: 10px;
+margin-top: 10px;
+color: white;
+background-color: black;
+border-radius: 10px;
+font-size: 18px;
+}
+#Box3{
+width: 200px;
+height: 330px;
+border: 1px solid black;
+float: left;
+padding: 10px;
+margin-left: 10px;
+margin-right: 10px;
+margin-top: 10px;
+color: white;
+background-color: black;
+border-radius: 10px;
+font-size: 18px;
+}
+#Box4{
+width: 200px;
+height: 330px;
+border: 1px solid black;
+float: left;
+padding: 10px;
+margin-left: 10px;
+margin-right: 10px;
+margin-top: 10px;
+color: white;
+background-color: black;
+border-radius: 10px;
+font-size: 18px;
+}
+#Box5{
+width: 200px;
+height: 330px;
+border: 1px solid black;
+float: left;
+padding: 10px;
+margin-left: 10px;
+margin-right: 10px;
+margin-top: 10px;
+color: white;
+background-color: black;
+border-radius: 10px;
+font-size: 18px;
+}
+#Box6{
+width: 200px;
+height: 330px;
+border: 1px solid black;
+float: left;
+padding: 10px;
+margin-left: 10px;
+margin-right: 10px;
+margin-top: 10px;
+color: white;
+background-color: black;
+border-radius: 10px;
+font-size: 18px;
+}
+#Box7{
+width: 200px;
+height: 330px;
+border: 1px solid black;
+float: left;
+padding: 10px;
+margin-left: 10px;
+margin-right: 10px;
+margin-top: 10px;
+color: white;
+background-color: black;
+border-radius: 10px;
+font-size: 18px;
+}
+#Box8{
+width: 200px;
+height: 330px;
+border: 1px solid black;
+float: left;
+padding: 10px;
+margin-left: 10px;
+margin-right: 10px;
+margin-top: 10px;
+color: white;
+background-color: black;
+border-radius: 10px;
+font-size: 18px;
+}
+#Box9{
+width: 200px;
+height: 330px;
+border: 1px solid black;
+float: left;
+padding: 10px;
+margin-left: 10px;
+margin-right: 10px;
+margin-top: 10px;
+color: white;
+background-color: black;
+border-radius: 10px;
+font-size: 18px;
+}
+#Box10{
+width: 200px;
+height: 330px;
+border: 1px solid black;
+float: left;
+padding: 10px;
+margin-left: 10px;
+margin-right: 10px;
+margin-top: 10px;
+color: white;
+background-color: black;
+border-radius: 10px;
+font-size: 18px;
+}
+#btn{
+width: 175px;
+height: 50px;
+margin-top: 10px;
+margin-left: 900px;
+background-color: black;
+color: white;
+border-radius: 15px;
+font-size: 20px;
+border: 5px solid green;
+}
+#h1{
+width: 1340px;
+box-shadow: 5px 5px 5px 5px black;
+color:aqua;
+background-color:black;
+border: 1px solid white;
+border-radius: 15px;
+}
+#a{
+background-color: black;
+color: white;
+font-size: 20px;
+width: 30px;
+text-align: center;
+}
+#b{
+background-color: black;
+color: white;
+font-size: 20px;
+width: 30px;
+text-align: center;
+}
+#c{
+background-color: black;
+color: white;
+font-size: 20px;
+width: 30px;
+text-align: center;
+}
+#d{
+background-color: black;
+color: white;
+font-size: 20px;
+width: 30px;
+text-align: center;
+}
+#e{
+background-color: black;
+color: white;
+font-size: 20px;
+width: 30px;
+text-align: center;
+}
+#f{
+background-color: black;
+color: white;
+font-size: 20px;
+width: 30px;
+text-align: center;
+}
+#g{
+background-color: black;
+color: white;
+font-size: 20px;
+width: 30px;
+text-align: center;
+}
+#h{
+background-color: black;
+color: white;
+font-size: 20px;
+width: 30px;
+text-align: center;
+}
+#i{
+background-color: black;
+color: white;
+font-size: 20px;
+width: 30px;
+text-align: center;
+}
+#j{
+background-color: black;
+color: white;
+font-size: 20px;
+width: 30px;
+text-align: center;
+}
+#Box100{
+border: 2px solid white;
+padding: 2px;
+font-size: 20px;
+color: white;
+margin-left: 450px;
+margin-top: 75px;
+box-shadow: 10px 20px 20px black;
+width: 500px;
+height: 600px;
+background: black;
+border-radius: 50px;
+float: left;
+-webkit-transform; perspective( 200px );
+transform: perspective(600px) rotateY(40deg);
+transition: -webkit-transform .5s linear 0s;
+transition: transform .5s linear 0s;
+}
+#Box100:hover{
+-webkit-transform; perspective( 200px );
+transform: perspective(600px) rotateX(0deg);
+}
+#teste{
+width: 500px;
+border: 2px solid black;
+height: 200px;
+color: red;
+background-color: white;
+}

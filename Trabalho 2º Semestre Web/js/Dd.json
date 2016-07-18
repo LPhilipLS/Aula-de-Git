@@ -1,0 +1,52 @@
+{
+    "box1": 
+    [     
+    
+         {"nome": " Nome : Don Draper","cargo":"Cargo: Direto de Criação","idade":"Idade: 44 anos","departamento":"Departamento: Criação"}
+    ],
+    
+    "box2": 
+        [
+{"nome": " Nome : Peggy Olson","cargo":"Cargo: Gerente de Criação","idade":"Idade: 25 anos","departamento":"Departamento: Criação"} 
+        ], 
+    
+      "box3": 
+        [
+ {"nome": " Nome : Harry Crane","cargo":"Cargo: Diretor de Mídea","idade":"Idade: 32 anos","departamento":"Departamento: Rádio e Tv"}
+        ], 
+    
+      "box4": 
+        [
+ {"nome": " Nome : Pete Campbell","cargo":"Cargo: Gerente de Contas","idade":"Idade: 30 anos","departamento":"Departamento: Contas"}  
+     ], 
+    
+      "box5": 
+        [
+ {"nome": " Nome : Bertram Cooper","cargo":"Cargo: Sócio","idade":"Idade: 75 anos","departamento":"Departamento: Conselho"}   
+        ],
+    
+     "box6": 
+    [   
+ {"nome": " Nome : Roger Sterling","cargo":"Cargo: Sócio","idade":"Idade: 55 anos","departamento":"Departamento: Conselho"}
+    ],
+    
+    "box7": 
+        [
+ {"nome": " Nome : Joan Holloway","cargo":"Cargo: Gerente de Escritório","idade":"Idade: 30 anos","departamento":"Departamento: Escritório"}     
+        ], 
+    
+      "box8": 
+        [
+ {"nome": " Nome : Salvatore Romano","cargo":"Cargo: Diretor de Artes","idade":"Idade: 41 anos","departamento":"Departamento: Artes"}
+        ], 
+    
+      "box9": 
+        [
+ {"nome": " Nome : Kenneth Cosgrove","cargo":"Cargo: Gerente de Contas","idade":"Idade: 29 anos","departamento":"Departamento: Contas"}       
+        ], 
+    
+      "box10": 
+        [
+ {"nome": " Nome : Paul Kinsey","cargo":"Cargo: Gerente de Criação","idade":"Idade: 35 anos","departamento":"Departamento: Criação"}   
+        ]
+}
